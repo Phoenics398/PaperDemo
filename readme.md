@@ -18,8 +18,6 @@ PaperDemo is a tool based on specific paper templates to generate content.
 
 meanwhile, it can be used to build mathematical models, analyze data, and generate paper or reports, with the help of other python tools.
 
-[演示示例](examples/example.gif "演示示例")
-
 ## 安装
 
 1. Windows
@@ -59,6 +57,8 @@ meanwhile, it can be used to build mathematical models, analyze data, and genera
 ## 功能拓展
 
 使用 PaperDemo 可一站式完成数学建模及论文写作。
+
+[演示示例](examples/example.gif "演示示例")
 
 1. PaperDemo + pandas, numpy
 > - 使用 pandas, numpy 等库进行数据处理及分析。
