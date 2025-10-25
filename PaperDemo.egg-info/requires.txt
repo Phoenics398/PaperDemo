@@ -1,0 +1,6 @@
+pandas==2.3.2
+pillow==11.1.0
+pywin32==311
+sympy==1.14.0
+tqdm==4.67.1
+python-docx==1.2.0

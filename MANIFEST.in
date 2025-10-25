@@ -1,0 +1,6 @@
+include readme.md
+include requirements.txt
+
+global-exclude .temp/
+global-exclude .backup/
+global-exclude .temps/
